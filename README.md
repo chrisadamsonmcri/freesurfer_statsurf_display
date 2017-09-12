@@ -1,2 +1,3 @@
 # freesurfer_statsurf_display
-Redirect to new home
+
+This project has moved to [https://developmentalimagingmcri.github.io/freesurfer_statsurf_display/](https://developmentalimagingmcri.github.io/freesurfer_statsurf_display/)
